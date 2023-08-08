@@ -117,19 +117,16 @@ h3 {
 @media screen and (max-width: 500px) {
   .container {
     font-size: 14px;
-    top: 50%;
+    top: 80%;
   }
   .search-container {
-    width: 90%;
-    gap: 0;
+    justify-content: center;
   }
   .search-container input {
     font-size: 0.9em;
-    width: 150px;
   }
   .search-container button {
     font-size: 0.9em;
     font-weight: 600;
-
   }
 }
