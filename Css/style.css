@@ -117,7 +117,7 @@ h3 {
 @media screen and (max-width: 500px) {
   .container {
     font-size: 14px;
-    top: 80%;
+    top: 60%;
   }
   .search-container {
     justify-content: center;
