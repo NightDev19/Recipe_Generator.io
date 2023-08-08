@@ -119,11 +119,17 @@ h3 {
     font-size: 14px;
     top: 50%;
   }
+  .search-container {
+    width: 90%;
+    gap: 0;
+  }
   .search-container input {
     font-size: 0.9em;
+    width: 150px;
   }
   .search-container button {
     font-size: 0.9em;
     font-weight: 600;
+
   }
 }
